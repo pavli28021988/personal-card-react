@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/personal-card-react/static/css/main.4930beef.css",
+    "main.js": "/personal-card-react/static/js/main.2b662d3b.js",
+    "index.html": "/personal-card-react/index.html",
+    "main.4930beef.css.map": "/personal-card-react/static/css/main.4930beef.css.map",
+    "main.2b662d3b.js.map": "/personal-card-react/static/js/main.2b662d3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4930beef.css",
+    "static/js/main.2b662d3b.js"
+  ]
+}
